@@ -28,7 +28,7 @@ Registrar meu progresso nos estudos do sistema Linux (Ubuntu), praticando comand
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/rGWLZgL.jpeg" alt="Comandos de navegação no terminal" width="700"/>
+  <img src="https://i.imgur.com/9hTC8Ei.jpeg" alt="Comandos de navegação no terminal" width="700"/>
 </p>
 
 ---
