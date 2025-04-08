@@ -35,8 +35,13 @@ Registrar meu progresso nos estudos do sistema Linux (Ubuntu), praticando comand
 
 ### 2. 🛠️ Manipulação de arquivos
 
-- [ ] `touch arquivo.txt` – cria um arquivo  
-- [ ] `mkdir nova_pasta` – cria um diretório  
+- [x] `ls | more` – utiliza-se quando não tem a barra de rolagem
+- [x] `ls (letra) 2x tab` –lista todos os arquivos que estão dentro do diretorio a partir da letra indicada
+- [x] `ls letra*` –lista todos os diretórios e arquivos com a letra inicial indicada
+- [x] `touch arquivo.txt` – cria um arquivo
+- [x] `find /home/user -name "arquivo.txt"` –  procura arquivos e diretórios dentro de uma hierarquia de diretórios, com base em critérios específicos, como nome, tipo, tamanho, data, etc.
+- [x] `mkdir nova_pasta` – cria um diretório  #sempre que precisar criar diretorios com espaço usar ''
+- [x] `rmdir (nome)`= excluir diretorios
 - [ ] `rm`, `cp`, `mv` – remove, copia e move arquivos
 
 ---
