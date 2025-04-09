@@ -18,7 +18,7 @@ Registrar meu progresso nos estudos do sistema Linux (Ubuntu), praticando comand
 - [x] `ls` – lista arquivos e diretórios  
 - [x] `cd` – muda de diretório  
 - [x] `ip a` – exibe as interfaces de rede e os endereços IP configurados no seu sistema  
-- [ ] `tree` – mostra a estrutura em árvore  
+- [x] `tree` – mostra a estrutura em árvore  
 - [x] `clear` ou `Ctrl+L` – limpa a tela
 - [x] `cd /` volta direto pro diretório raiz
 - [x] `cd ..`volta um diretório
@@ -42,7 +42,7 @@ Registrar meu progresso nos estudos do sistema Linux (Ubuntu), praticando comand
 - [x] `find /home/user -name "arquivo.txt"` –  procura arquivos e diretórios dentro de uma hierarquia de diretórios, com base em critérios específicos, como nome, tipo, tamanho, data, etc.
 - [x] `mkdir nova_pasta` – cria um diretório  #sempre que precisar criar diretorios com espaço usar ''
 - [x] `rmdir (nome)`= excluir diretorios
-- [ ] `rm`, `cp`, `mv` – remove, copia e move arquivos
+- [x] `rm`, `cp`, `mv` – remove, copia e move arquivos
 
 ---
 
